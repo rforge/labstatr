@@ -1,0 +1,31 @@
+COV                     Calcola la covarianza non corretta
+E                       Calcola l'indice di eterogeneita'
+Markov                  Simulatore di catene di Markov
+Me                      Calcola la mediana anche per fenomeni
+                        qualitativi
+Rp                      Calcola l'allocazione ottimale di un
+                        portafoglio
+Rpa                     Calcola il rendimento di un portafoglio
+birthday                Calcola la probabilita' di compleanni
+                        coincidenti
+bubbleplot              Disegna un grafico a bolle
+chi2                    Calcola l'indice di connessione
+cv                      Calcola il coefficiente di variazione
+eta                     Calcola l'indice di dipendenza in media
+gen.vc                  Simula una variabile casuale discreta
+gini                    Calcola l'indice di concetrazione
+gioco1                  Simula la scommessa di De Mere
+gioco2                  Simula la scommessa di De Mere
+hist.pf                 Disegna il poligono di frequenza
+ic.var                  Calcola intervallo di confidenza per la
+                        varianza
+interinale              Dati sul lavoro interinale
+kurt                    Calcola l'indice di curtosi
+lewis                   Simulatore di processi di Poisson
+mean.a                  Calcola la media armonica
+mean.g                  Calcola la media geometrica
+sigma2                  Calcola la varianza non corretta
+skew                    Calcola l'indice di asimmetria
+test.var                Calcola intervallo di confidenza per la
+                        varianza
+trajectory              Simulatore di processi di diffusione
