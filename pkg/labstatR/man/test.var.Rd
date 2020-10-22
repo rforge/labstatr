@@ -6,18 +6,18 @@
   confidenza per la varianza di campione gaussiano.
 }
 \usage{
-test.var(x, var0, alternative = c("greater", "less"), alpha = 0.05)
+test.var(x, var0, alternative = "greater", alpha = 0.05)
 }
 \arguments{
   \item{x}{vettore di dati}
   \item{var0}{valore della varianza sotto l'ipotesi nulla}
-  \item{alternative}{direzione del test \code{"greater"} o \code{"less"}
-  mentre \code{"equal"} non e' ammessa.}
+  \item{alternative}{direzione del test \code{"greater"} o \code{"less"}. Default = "greater"}
   \item{alpha}{ampiezza del test}
 }
 \examples{
 x <- rnorm(100, sd=5)
 var(x)
 test.var(x,20)
+test.var(x,20,alternative="less")
 }
 \keyword{univar}

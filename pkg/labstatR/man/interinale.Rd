@@ -16,7 +16,7 @@
   Iacus, S.M., Porro, G. (2001)  Occupazione interinale e terzo 
   settore. Analisi dei microdati di una societa' ``no profit''  
   di fornitura di lavoro interinale, IRES Quaderno n.2,  
-  \emph{IRES-Lombardia}, \url{www.ireslombardia.it}.
+  \emph{IRES-Lombardia}.
 }
 \examples{
 data(interinale)
